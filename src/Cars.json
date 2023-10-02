@@ -1,0 +1,69 @@
+[
+    {
+        "id":1,
+        "name":"Toyota RAV4",
+        "image":"https://www.motortrend.com/uploads/2021/11/2022_Toyota_RAV4_XSE_001.jpg?fit=around%7C875:492.1875",
+        "year":"2021",
+        "people":"4",
+        "mileage":"6.1",
+        "fuel":"Hybrid",
+        "type":"Automatic",
+        "price":"440"
+        
+    },
+    {
+        "id":2,
+        "name":"BMW 3 Series",
+        "image":"https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/3-Series/10574/1689667781970/front-left-side-47.jpg?tr=w-456",
+        "year":"2019",
+        "people":"4",
+        "mileage":"8.2",
+        "fuel":"Gasoline",
+        "type":"Automatic",
+        "price":"350"
+    },
+    {
+        "id":3,
+        "name":"Volkswagen T-Cross",
+        "image":"https://www.v3cars.com/media/model-imgs/1625717910-VW-T-Cross.jpg",
+        "year":"2020",
+        "people":"4",
+        "mileage":"5.3",
+        "fuel":"Gasoline",
+        "type":"Automatic",
+        "price":"400"
+    },
+    {
+        "id":4,
+        "name":"Cadillac Escalade",
+        "image":"https://cdn.motor1.com/images/mgl/lNnnl/s3/cadillac-escalade-sport-edition.webp",
+        "year":"2020",
+        "people":"4",
+        "mileage":"7.6",
+        "fuel":"Gasoline",
+        "type":"Automatic",
+        "price":"620"
+    },
+    {
+        "id":5,
+        "name":"BMW 4 Series GTI",
+        "image":"https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/bmw-4-series-rt-003.jpg?itok=mIB_4AWi",
+        "year":"2021",
+        "people":"4",
+        "mileage":"7.4",
+        "fuel":"Gasoline",
+        "type":"Automatic",
+        "price":"530"
+    },
+    {
+        "id":6,
+        "name":"BMW 4 Series",
+        "image":"https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20200603110713_BMW-4-Series-M440i-Coupe-front.jpg&w=700&q=90&c=1",
+        "year":"2019",
+        "people":"4",
+        "mileage":"7.2",
+        "fuel":"Gasoline",
+        "type":"Automatic",
+        "price":"490"
+    }
+]
