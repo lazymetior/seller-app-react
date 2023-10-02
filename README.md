@@ -22,6 +22,12 @@ i have provided details of 60 cars.
 in this app functionalities like pagination and search feature are workable
 for now.
 
+# Note
+
+i have used random image for most of the cars after first page,
+so if you feel like image is not rendering or taking time to render then wait
+for some time or just refresh the page.
+
 # Technologies
 
 React js, bootstrap 5, vanila css, axios, js
