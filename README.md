@@ -2,13 +2,13 @@
 
 This project was bootstrapped with [Create React App].
 
-# Install all node modules before getting statrt
+# Install all node modules before getting start
 
 Use npm i for installing all the modules
 
 # Run the project
 
-use npm start to run the project
+Use npm start to run the project
 
 # About this project
 
