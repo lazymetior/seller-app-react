@@ -14,7 +14,7 @@ use npm start to run the project
 
 This is the front end part of the seller app just like a car rental app.
 
-# features
+# Features
 
 in this app i've provided the information about different cars in cards
 format.
@@ -22,7 +22,7 @@ i have provided details of 60 cars.
 in this app functionalities like pagination and search feature are workable
 for now.
 
-# technologies
+# Technologies
 
 React js, bootstrap 5, vanila css, axios, js
 
