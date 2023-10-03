@@ -20,10 +20,12 @@ in this app i've provided the information about different cars in cards
 format.
 i have provided details of 60 cars.
 in this app functionalities like pagination and search feature are workable
-for now.
+only on page 1 for now.
 
 # Note
 
+in search feature i found an error of it only works on first page,
+im trying to fix it soon.
 i have used random image for most of the cars after first page,
 so if you feel like image is not rendering or taking time to render then wait
 for some time or just refresh the page.
