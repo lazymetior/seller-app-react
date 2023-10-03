@@ -7,12 +7,10 @@ function Header(props) {
     setSearchInput(e.target.value);
   };
 
-  
+  // Header with workable search bar
 
   return (
     <>
-   
-
       <div className="album" id="card-container">
         <div className="container" id="white-container">
           <nav className="navbar navbar-expand-lg">

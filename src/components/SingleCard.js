@@ -11,8 +11,9 @@ const SingleCard = function SingleCard({
   type,
 }) {
 
+  // applying api data on each of the cars
+
   return (
-    
     <div className="col">
       <div className="card shadow-sm ">
         <img

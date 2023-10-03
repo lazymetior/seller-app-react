@@ -1,21 +1,29 @@
+/* design of the card container and which is in Cards.js and Header.js */
+
 #card-container{
     background-color: #edf0f7;
     color: #7d8391;
     padding-top: 25px;
 }
-
+/* design of the White container which is in Cards.js */
 #white-container{
     border: 1px solid white;
     border-radius: 15px;
     background-color: #f2f5fc;
     
 }
-
+/* design of the light container which is in Header.js */
 #light-container{
     border: 1px solid white;
     border-radius: 15px;
     background-color: #f2f5fc;
     padding: 15px;
+}
+
+/* design of single card which is in singlecard.js */
+
+.card-body ul i{
+    color:#0d6efd ;
 }
 
 #card-head{
@@ -34,6 +42,8 @@
 #price h3 span{
     font-size: 15px;
 }
+
+/* footer styles */
 
 #btn-grp{
     display: flex;
@@ -62,7 +72,5 @@ display: flex;
 gap: 10px;
 }
 
-.card-body ul i{
-    color:#0d6efd ;
-}
+
 

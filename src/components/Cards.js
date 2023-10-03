@@ -1,6 +1,8 @@
 import SingleCard from "./SingleCard";
 
 const Cards = ({ carsData, searchData }) => {
+
+  // Design of cards container and sending data to the single card. 
   return (
     <>
       <div className="album py-4" id="card-container">
